@@ -7,7 +7,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 )
 
-func main2() {
+func main() {
 	fmt.Println("Go MySQL Tutorial")
 
 	// Open up our database connection.
